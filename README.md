@@ -5,11 +5,13 @@
 官方入口地址03 [https://www.fbweb.cc](https://www.fbweb.cc)   
 （请注意，您最开始提供的地址是 flyingbird.cc，现在提供的这三个可能为最新的主站或分流地址。）  
 ### 优惠码01：
+![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png)
 ```bash
 fb25100185
 ```
 1: 月/季/半年付 85折 , 优惠码：fb25100185 可重复使用5次
 ### 优惠码02：
+![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png)
 ```bash
 fb25100180
 ```
