@@ -3,7 +3,7 @@
 官方入口地址01 [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=T7N16oUx)   
 官方入口地址02 [https://fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)   
 官方入口地址03 [https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=T7N16oUx)   
-（请注意，您最开始提供的地址是 flyingbird.cc，现在提供的这三个可能为最新的主站或分流地址。）  
+ 
 ### 优惠码01：月付用
 ```bash
 fb25100185
