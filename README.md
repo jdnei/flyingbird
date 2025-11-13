@@ -1,4 +1,4 @@
-# Flyingbird 飞鸟机场官方地址(2025年10月9日更新)
+# Flyingbird 飞鸟机场官方地址(2025年11月9日更新)
 官方最新地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)  
 官方入口地址01 [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=T7N16oUx)   
 官方入口地址02 [https://fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)   
@@ -6,13 +6,13 @@
  
 ### 优惠码01：月付用
 ```bash
-fb25100185
+fb25111185
 ```
 1: 月/季/半年付 85折 , 优惠码：fb25100185 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png)
 ### 优惠码02：年付用
 ```bash
-fb25100180
+fb25111180
 ```
 2: 年付8折（站内折上折，高达64折 ）优惠码：fb25100180 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png)
