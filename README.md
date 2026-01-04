@@ -6,15 +6,15 @@
  
 ### 优惠码01：月付用
 ```bash
-fb25111185
+fb250085
 ```
-1: 月/季/半年付 85折 , 优惠码：fb25100185 可重复使用5次
+1: 月/季/半年付 85折 , 优惠码 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png)
 ### 优惠码02：年付用
 ```bash
-fb25111180
+fb250080
 ```
-2: 年付8折（站内折上折，高达64折 ）优惠码：fb25100180 可重复使用5次
+2: 年付8折（站内折上折，高达64折 ）优惠码 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png)
 ## 服务简介
 飞鸟机场（FlyingBird）官方介绍与服务指南  
