@@ -9,13 +9,13 @@
 fb250085
 ```
 1: 月/季/半年付 85折 , 优惠码 可重复使用5次
-![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png)
+![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png?raw=true)
 ### 优惠码02：年付用
 ```bash
 fb250080
 ```
 2: 年付8折（站内折上折，高达64折 ）优惠码 可重复使用5次
-![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png)
+![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png?raw=true)
 ## 服务简介
 飞鸟机场（FlyingBird）官方介绍与服务指南  
 飞鸟机场（FlyingBird），亦称飞鸟加速器，是一家致力于提供高速、稳定、高品质网络服务的SS机场。我们承诺所有线路均采用海外落地，并全面启用IPLC国际专线，为您带来不限速、不限设备数量的卓越体验，确保在网络晚高峰时段依然超稳定运行。  
