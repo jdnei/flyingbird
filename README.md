@@ -6,13 +6,13 @@
  
 ### 优惠码01：月付用
 ```bash
-fb250085
+fbcj2685
 ```
 1: 月/季/半年付 85折 , 优惠码 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png?raw=true)
 ### 优惠码02：年付用
 ```bash
-fb250080
+fbcj2680
 ```
 2: 年付8折（站内折上折，高达64折 ）优惠码 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png?raw=true)
