@@ -3,14 +3,15 @@
 官方入口地址01： [fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=T7N16oUx)   
 官方入口地址02： [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)   
 官方入口地址03： [www.fbweb.cc](https://www.fbweb.cc/auth/register?code=T7N16oUx)   
- 
-### 优惠码01：月付用
+### 最新公告
+![image.png](https://pic.us.kg/file/1777444350652_image.png)
+### 优惠码01：月付用  已过期
 ```bash
 fbcj2685
 ```
 1: 月/季/半年付 85折 , 优惠码 可重复使用5次
 ![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png?raw=true)
-### 优惠码02：年付用
+### 优惠码02：年付用  已过期
 ```bash
 fbcj2680
 ```
