@@ -4,7 +4,13 @@
 官方入口地址02： [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)   
 官方入口地址03： [www.fbweb.cc](https://www.fbweb.cc/auth/register?code=T7N16oUx)   
 ### 最新公告
-![image.png](https://pic.us.kg/file/1777444350652_image.png?raw=true)
+![image.png](https://pic.us.kg/file/1777444350652_image.png?raw=true)  
+
+---
+
+![image.png](https://pic.us.kg/file/1778661311351_image.png)   
+
+---
 ### 优惠码01：月付用  已过期
 ```bash
 fbcj2685
