@@ -4,26 +4,18 @@
 官方入口地址02： [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)   
 官方入口地址03： [www.fbweb.cc](https://www.fbweb.cc/auth/register?code=T7N16oUx)   
 ## 最新公告
+---
+
 ![image.png](https://pic.us.kg/file/1777444350652_image.png?raw=true)  
 
 ---
 
-![image.png](https://pic.us.kg/file/1778661311351_image.png?raw=true)   
-
----
-## 优惠码01：月付用  已过期
+## 优惠码
+`已失效`
 ```bash
 fbcj2685
 ```
-1: 月/季/半年付 85折 , 优惠码 可重复使用5次
-![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-010450.png?raw=true)
-## 优惠码02：年付用  已过期
-```bash
-fbcj2680
-```
-2: 年付8折（站内折上折，高达64折 ）优惠码 可重复使用5次
-![imgage](https://github.com/jdnei/flyingbird/blob/main/QQ20251011-011005.png?raw=true)
-## 服务简介
+## 简介
 飞鸟机场（FlyingBird）官方介绍与服务指南  
 飞鸟机场（FlyingBird），亦称飞鸟加速器，是一家致力于提供高速、稳定、高品质网络服务的SS机场。我们承诺所有线路均采用海外落地，并全面启用IPLC国际专线，为您带来不限速、不限设备数量的卓越体验，确保在网络晚高峰时段依然超稳定运行。  
 飞鸟加速器目前在全球范围内拥有超过70条优质线路，节点遍布亚洲、美洲和欧洲等多个国家和地区，包括中国香港、中国台湾、日本、新加坡、马来西亚、土耳其、阿根廷和美国等。  
