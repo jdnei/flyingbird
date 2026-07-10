@@ -11,9 +11,9 @@ Flyingbird 飞鸟机场官网地址</br>
 
 ---
 ## 客户端
-🪟 [Windows](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.exe) ｜ 🍎 [macOS](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.pkg) ｜ </br>
+🪟 [Windows](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.exe) ｜ 🍎 [macOS](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.pkg) ｜ 🐧 [Linux](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-linux-lite.zip) ｜ </br>
 🤖 [Android](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-lite.apk) ｜ 🍎 [iPhone / iPad](https://fbaffa09.cc/fbios.html) ｜</br>
-🐧 [Linux](https://dl.pbbapi.hnlskj98.com/apps/fb/fbapp-linux-lite.zip) ｜ </br>
+
 ## 优惠码
 `已失效`
 ```bash
