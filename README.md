@@ -7,7 +7,7 @@ Flyingbird 飞鸟机场官网地址</br>
 ## 最新公告
 ---
 
-![image.png](https://pic.us.kg/file/1777444350652_image.png?raw=true)  
+![image.png](https://github.com/jdnei/flyingbird/blob/main/flyingbird/20260716-151141.jpg?raw=true)  
 
 ---
 ## 客户端
