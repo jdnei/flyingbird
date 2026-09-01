@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی Flyingbird VPN (به‌روزرسانی 31 اوت 2026)
+# آدرس رسمی Flyingbird VPN (به‌روزرسانی 1 سپتامبر 2026)
 
 آدرس وب‌سایت رسمی Flyingbird VPN</br>
 جدیدترین آدرس 01: [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)</br>
