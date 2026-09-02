@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Flyingbird VPN Official Address (Updated September 1, 2026)
+# Flyingbird VPN Official Address (Updated September 2, 2026)
 
 Flyingbird VPN Official Website Address</br>
 Latest Address 01: [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)</br>
