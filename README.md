@@ -4,10 +4,16 @@
 
 # Flyingbird 飞鸟机场官方地址(2026年9月29日更新)
 Flyingbird 飞鸟机场官网地址</br>
+
+## 避雷！避雷！
+
 最新地址01： [fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=T7N16oUx)</br>
 最新地址02： [fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
 最新地址03： [www.fbweb.cc](https://www.fbweb.cc/auth/register?code=T7N16oUx)</br>
 官方地址： [flyingbird.cc](https://fbinv02.fbaff.cc/auth/register?code=T7N16oUx)</br>
+
+## 机场不给提现，工单不受理，客服无回应！请去[KittyNetwork](https://github.com/jdnei/kitty)
+
 ## 最新公告
 ---
 
