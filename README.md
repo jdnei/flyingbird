@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# Flyingbird 飞鸟机场官方地址(2026年11月13日更新)
+# Flyingbird 飞鸟机场官方地址(2026年11月14日更新)
 Flyingbird 飞鸟机场官网地址</br>
 
 
